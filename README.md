@@ -29,6 +29,7 @@ This project focuses on analyzing Land Use and Land Cover (LULC) changes over ti
 - LULC maps  
 - Change detection maps  
 - Statistical summaries  
+https://github.com/khalidhasan1102/LULC_Change_Analysis/blob/main/dulahazara_Drainge.png
 
 ## Applications
 - Urban planning  
