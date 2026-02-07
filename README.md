@@ -29,10 +29,7 @@ This project focuses on analyzing Land Use and Land Cover (LULC) changes over ti
 - LULC maps  
 - Change detection maps  
 - Statistical summaries  
-<img width="1919" height="1012" alt="dulahazara_Drainge" src="https://github.com/user-attachments/assets/bb2c32e0-709f-4da0-8b41-04c83a2bfa33" />
-<img width="430" height="359" alt="landuse" src="https://github.com/user-attachments/assets/c3caba50-e6c0-435a-adb8-4ab401466878" />
-<img width="522" height="625" alt="ganeral_land_use" src="https://github.com/user-attachments/assets/acea3b08-b9c6-4983-b466-594de1145a4f" />
-
+<img width="1029" height="689" alt="image" src="https://github.com/user-attachments/assets/c998e20f-1eca-43a8-99d1-367c116398de" />
 
 
 ## Applications
