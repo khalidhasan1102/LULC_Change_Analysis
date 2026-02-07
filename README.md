@@ -10,7 +10,8 @@ This project focuses on analyzing Land Use and Land Cover (LULC) changes over ti
 
 ## Data Sources
 - Landsat Satellite Imagery  
-- Administrative boundary shapefiles  
+- Administrative boundary shapefiles
+- https://github.com/khalidhasan1102/LULC_Change_Analysis/blob/main/Land%20Use%20Analysis%20of%20Dulahazara%20Mouza.zip
 
 ## Tools & Software
 - ArcMap / ArcGIS Pro  
